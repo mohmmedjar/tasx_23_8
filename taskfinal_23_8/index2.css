@@ -1,0 +1,62 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.contaienr {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 100px;
+}
+
+.center1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.para {
+    color: rgba(0, 0, 0, 0.495);
+}
+
+.para1 {
+    color: rgb(244, 242, 242);
+    background-color: rgb(95, 95, 255);
+    width: 250px;
+    height: 45px;
+    border: none;
+    border-radius: 20px;
+    position: relative;
+    top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#fname {
+    position: relative;
+    top: 10px;
+}
+
+#lname {
+    position: relative;
+    top: 20px;
+}
+
+.para2 {
+    color: rgba(0, 0, 0, 0.495);
+    position: relative;
+    bottom: -50px;
+    left: 8p0x;
+}
+.button {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: 1px solid; rgb(232, 222, 233);
+    background-color: azure;
+    border: 1px solid;
+    position: relative;
+    right: 100px;
